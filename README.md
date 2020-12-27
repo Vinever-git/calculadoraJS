@@ -16,6 +16,7 @@ https://github.com/Vinever-git/calculadoraJS.git
 # Tecnologias ultilizadas
 
 [JavaScript](https://www.w3schools.com/js/default.asp)
+
 [Boostrap](https://getbootstrap.com/)
 
 # Telas projeto
